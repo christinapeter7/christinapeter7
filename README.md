@@ -30,8 +30,7 @@ Currently, I’m gaining hands-on experience at **Symufolk**, where I work on da
 ---
 
 ### 📫 Let’s Connect!  
-
-💼 [LinkedIn](https://www.linkedin.com/in/christinapeter7/)  
+ 
 📧 [christina.peter@symufolk.com](mailto:christina.peter@symufolk.com)  
 
 ---
