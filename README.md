@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Christina Peter  
+## Hi there 👋 I'm Christina Peace
 
 🎯 **Data Engineer Intern @ Symufolk**  
 🚀 Passionate about building data pipelines, transforming raw data into insights, and working with cloud-based data platforms.  
